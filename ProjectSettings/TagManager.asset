@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - BRANCH
+  - BIRD
+  - GIFT1
+  - GIFT2
+  - GIFT3
   layers:
   - Default
   - TransparentFX
